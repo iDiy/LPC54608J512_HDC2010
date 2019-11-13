@@ -1,0 +1,6 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1805:22:__NVIC_SetPriority	16	static
+fsl_common.h:419:28:EnableIRQ	16	static
+hdc2010_test.c:83:6:pint_intr_callback	24	static
+hdc2010_test.c:95:6:HDC2010_test	16	static
+hdc2010_test.c:107:13:master_task	144	static

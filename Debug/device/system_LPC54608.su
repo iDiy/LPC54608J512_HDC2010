@@ -1,0 +1,10 @@
+system_LPC54608.c:71:17:getWdtOscFreq	16	static
+system_LPC54608.c:86:17:pllDecodeN	32	static
+system_LPC54608.c:120:17:pllDecodeP	32	static
+system_LPC54608.c:153:17:pllDecodeM	32	static
+system_LPC54608.c:187:17:findPllPreDiv	24	static
+system_LPC54608.c:206:17:findPllPostDiv	24	static
+system_LPC54608.c:225:17:findPllMMult	24	static
+system_LPC54608.c:250:6:SystemInit	8	static
+system_LPC54608.c:274:6:SystemCoreClockUpdate	48	static
+system_LPC54608.c:350:29:SystemInitHook	4	static

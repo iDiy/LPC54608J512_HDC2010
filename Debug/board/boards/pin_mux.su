@@ -1,0 +1,17 @@
+fsl_clock.h:720:20:CLOCK_EnableClock	24	static
+pin_mux.c:197:6:BOARD_InitBootPins	8	static
+pin_mux.c:220:6:BOARD_InitPins	4	static
+pin_mux.c:241:6:BOARD_InitBUTTONsPins	4	static
+pin_mux.c:262:6:BOARD_InitLEDsPins	4	static
+pin_mux.c:285:6:BOARD_InitPMod_SPI_I2C_BRIDGEPins	8	static
+pin_mux.c:340:6:BOARD_InitACCELPins	4	static
+pin_mux.c:361:6:BOARD_InitQSPI_FLASHPins	4	static
+pin_mux.c:382:6:BOARD_InitSDHCPins	4	static
+pin_mux.c:403:6:BOARD_InitSDRAMPins	4	static
+pin_mux.c:424:6:BOARD_InitUSBPins	4	static
+pin_mux.c:447:6:BOARD_InitDEBUG_UARTPins	8	static
+pin_mux.c:504:6:BOARD_InitSWD_DEBUGPins	4	static
+pin_mux.c:525:6:BOARD_InitLCDPins	4	static
+pin_mux.c:546:6:BOARD_InitENETPins	4	static
+pin_mux.c:567:6:BOARD_InitDMICPins	4	static
+pin_mux.c:588:6:BOARD_InitI2SPins	4	static

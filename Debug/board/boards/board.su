@@ -1,0 +1,2 @@
+board.c:48:10:BOARD_InitDebugConsole	16	static
+board.c:61:6:BOARD_InitSDRAM	80	static
